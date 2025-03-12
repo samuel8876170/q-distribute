@@ -1,0 +1,1 @@
+trade:([]time:`s#"p"$();sym:`g#`$();exch:`$();price:"f"$();size:"f"$())

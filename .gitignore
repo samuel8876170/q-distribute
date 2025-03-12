@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Allow below files
+!.gitignore
+!.gitmodules
+!README.md
+!LICENSE
+!qdist_profile.sh
+!src/
+!src/**
+!lib/
+!lib/**
+!schema/
+!schema/**

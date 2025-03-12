@@ -1,0 +1,1 @@
+quote:([]time:`s#"p"$();sym:`g#`$();exch:`$();bid:"f"$();ask:"f"$();bidsz:"f"$();asksz:"f"$())
